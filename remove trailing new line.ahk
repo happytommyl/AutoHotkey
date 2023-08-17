@@ -10,6 +10,8 @@
 
 :*:elee::二零二二年
 :*:eley::二零二一年
+:*:eles::二零二三年
+:*:rmbqy::人民幣千元
 :*:fz::附註
 :*:pml::pmingliu
 :*:tnr::times new roman
